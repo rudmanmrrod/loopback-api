@@ -22,4 +22,4 @@ npm start
 
 Use rest api client on *http://localhost:3000/hobbies*
 
-More details of methods on [controller](https://github.com/rudmanmrrod/loopback-api/blob/master/src/controllers/home-page.controller.ts)
+More details of methods on [controller](/src/controllers/home-page.controller.ts)
